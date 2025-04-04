@@ -1,0 +1,57 @@
+BAHIA – ESTOQUES (KM²),Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,Área Artificial,Área Agrícola,Pastagem com Manejo,Mosaico de Ocupações em Área Florestal,Silvicultura,Vegetação Florestal,Área Úmida,Vegetação Campestre,Mosaico de Ocupações em Área Campestre,Corpo d'água Continental,Corpo d'água Costeiro,Área Descoberta
+Estoque (2000),1513,16681,48799,111404,4923,110153,21,215162,50669,5172,45,183
+Mudanças efetivas,77,8427,4303,2947,2940,75,0,168,3701,0,0,0
+Reavaliações para cima,0,0,0,0,0,0,0,0,0,0,0,0
+Total de adições ao estoque,77,8427,4303,2947,2940,75,0,168,3701,0,0,0
+Mudanças efetivas,0,100,253,6021,198,4135,0,11310,621,0,0,0
+Reavaliações para baixo,0,0,0,0,0,0,0,0,0,0,0,0
+Total de reduções do estoque,0,100,253,6021,198,4135,0,11310,621,0,0,0
+Saldo mudanças efetivas,77,8327,4050,-3074,2742,-4060,0,-11142,3080,0,0,0
+Saldo reavaliações,0,0,0,0,0,0,0,0,0,0,0,0
+Estoque (2010),1590,25008,52849,108330,7665,106093,21,204020,53749,5172,45,183
+Mudanças efetivas,30,3677,1199,3031,263,178,0,52,1680,0,0,0
+Reavaliações para cima,0,0,0,0,0,0,0,0,0,0,0,0
+Total de adições ao estoque,30,3677,1199,3031,263,178,0,52,1680,0,0,0
+Mudanças efetivas,0,37,71,1246,454,3066,0,5120,116,0,0,0
+Reavaliações para baixo,0,0,0,0,0,0,0,0,0,0,0,0
+Total de reduções do estoque,0,37,71,1246,454,3066,0,5120,116,0,0,0
+Saldo mudanças efetivas,30,3640,1128,1785,-191,-2888,0,-5068,1564,0,0,0
+Saldo reavaliações,0,0,0,0,0,0,0,0,0,0,0,0
+Estoque (2012),1620,28648,53977,110115,7474,103205,21,198952,55313,5172,45,183
+Mudanças efetivas,31,2000,928,962,189,35,33,130,1797,0,0,0
+Reavaliações para cima,0,0,0,0,0,0,0,0,0,0,0,0
+Total de adições ao estoque,31,2000,928,962,189,35,33,130,1797,0,0,0
+Mudanças efetivas,0,30,91,834,52,1225,0,3528,345,0,0,0
+Reavaliações para baixo,0,0,0,0,0,0,0,0,0,0,0,0
+Total de reduções do estoque,0,30,91,834,52,1225,0,3528,345,0,0,0
+Saldo mudanças efetivas,31,1970,837,128,137,-1190,33,-3398,1452,0,0,0
+Saldo reavaliações,0,0,0,0,0,0,0,0,0,0,0,0
+Estoque (2014),1651,30618,54814,110243,7611,102015,54,195554,56765,5172,45,183
+Mudanças efetivas,14,301,199,404,67,22,15,137,707,0,0,0
+Reavaliações para cima,0,0,0,0,0,0,0,0,0,0,0,0
+Total de adições ao estoque,14,301,199,404,67,22,15,137,707,0,0,0
+Mudanças efetivas,0,26,51,95,13,445,0,1077,159,0,0,0
+Reavaliações para baixo,0,0,0,0,0,0,0,0,0,0,0,0
+Total de reduções do estoque,0,26,51,95,13,445,0,1077,159,0,0,0
+Saldo mudanças efetivas,14,275,148,309,54,-423,15,-940,548,0,0,0
+Saldo reavaliações,0,0,0,0,0,0,0,0,0,0,0,0
+Estoque (2016),1665,30893,54962,110552,7665,101592,69,194614,57313,5172,45,183
+Mudanças efetivas,25,694,582,99,137,488,0,126,394,11,0,0
+Reavaliações para cima,0,0,0,0,0,0,0,0,0,0,0,0
+Total de adições ao estoque,25,694,582,99,137,488,0,126,394,11,0,0
+Mudanças efetivas,0,285,115,769,23,149,0,708,507,0,0,0
+Reavaliações para baixo,0,0,0,0,0,0,0,0,0,0,0,0
+Total de reduções do estoque,0,285,115,769,23,149,0,708,507,0,0,0
+Saldo mudanças efetivas,25,409,467,-670,114,339,0,-582,-113,11,0,0
+Saldo reavaliações,0,0,0,0,0,0,0,0,0,0,0,0
+Estoque (2018),1690,31302,55429,109882,7779,101931,69,194032,57200,5183,45,183
+Mudanças efetivas,70,837,357,74,190,90,0,222,397,0,0,0
+Reavaliações para cima,358,174,4,143,0,23,0,11,79,28,1,0
+Total de adições ao estoque,428,1011,361,217,190,113,0,233,476,28,1,0
+Mudanças efetivas,0,162,158,272,52,173,0,1049,371,0,0,0
+Reavaliações para baixo,271,1,43,339,6,18,0,9,109,2,23,0
+Total de reduções do estoque,271,163,201,611,58,191,0,1058,480,2,23,0
+Saldo mudanças efetivas,70,675,199,-198,138,-83,0,-827,26,0,0,0
+Saldo reavaliações,87,173,-39,-196,-6,5,0,2,-30,26,-22,0
+Estoque (2020),1847,32150,55589,109488,7911,101853,69,193207,57196,5209,23,183
